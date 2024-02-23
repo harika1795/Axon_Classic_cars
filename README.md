@@ -14,5 +14,7 @@ Inventory Trends: Track inventory trends, such as turnover rate, popular models,
 Geographical Analysis: Gain insights into sales distribution across different regions, helping you tailor your marketing strategies.
 
 Technologies Used:
+
 Power BI: Power BI is used for building interactive and visually compelling dashboards. It allows for easy data visualization and analysis.
+
 SQL: SQL (Structured Query Language) is used for database management and querying. It's used to extract, transform, and load (ETL) data from the database to Power BI for analysis.
